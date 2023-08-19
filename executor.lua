@@ -4,7 +4,7 @@ local coreGui = game:GetService("CoreGui")
 
 local lplr = plrs.LocalPlayer
 local events = repStorage._PROTECTED.Events
-local checks = require(repStorage._PROTECTED.Controllers.Checks)
+local checks = require(14499825459)
 local clientSideInstances = {"CanvasGroup", "Frame", "ImageButton", "ImageLabel", "Frame",
                     "ScreenGui", "ScrollingFrame", "TextBox", "TextButton", "TextLabel", "Folder",
                     "UIAspectRatioConstraint", "UICorner", "UIGradient", "UIGridLayout", "Animation",
